@@ -1,3 +1,8 @@
+The Colors used by GitHub to represent programming languages
+
+.. '\n'.join('.. image:: http://www.placehold.it/200/%s/ffffff&text=%s' % (c[x][1:], quote_plus(x.replace('C++','cpp').replace('C#', 'C Sharp')) for x in c)
+
+
 .. image:: http://www.placehold.it/200/946d57/ffffff&text=Eiffel
 .. image:: http://www.placehold.it/200/b07219/ffffff&text=Java
 .. image:: http://www.placehold.it/200/543978/ffffff&text=VHDL
