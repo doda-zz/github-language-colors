@@ -1,4 +1,4 @@
-A mapping of which colors github uses to represent in their "Languages" tab on each repository.
+A mapping of which colors github uses to represent different programming languages in their "Languages" tab on each repository.
 
 .. '\n'.join('.. image:: http://www.placehold.it/200/%s/ffffff&text=%s' % (c[x][1:], quote_plus(x.replace('C++','cpp').replace('C#', 'C Sharp')) for x in c)
 
