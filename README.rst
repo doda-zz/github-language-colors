@@ -73,7 +73,7 @@ The Colors used by GitHub to represent programming languages
 .. image:: http://www.placehold.it/200/ae17ff/ffffff&text=Racket
 .. image:: http://www.placehold.it/200/6a40fd/ffffff&text=ASP
 .. image:: http://www.placehold.it/200/945db7/ffffff&text=Visual+Basic
-.. image:: http://www.placehold.it/200/6e03c1/ffffff&text=PHP
+.. image:: http://www.placehold.it/200/777bb4/ffffff&text=PHP
 .. image:: http://www.placehold.it/200/1e4aec/ffffff&text=Scheme
 .. image:: http://www.placehold.it/200/3581ba/ffffff&text=Vala
 .. image:: http://www.placehold.it/200/596706/ffffff&text=Smalltalk
