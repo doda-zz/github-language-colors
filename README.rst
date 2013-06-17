@@ -64,7 +64,7 @@ The Colors used by GitHub to represent programming languages
 .. image:: http://www.placehold.it/200/3ebc27/ffffff&text=Dylan
 .. image:: http://www.placehold.it/200/37775b/ffffff&text=Nimrod
 .. image:: http://www.placehold.it/200/8d04eb/ffffff&text=Go
-.. image:: http://www.placehold.it/200/3581ba/ffffff&text=Python
+.. image:: http://www.placehold.it/200/407cab/ffffff&text=Python
 .. image:: http://www.placehold.it/200/e4cc98/ffffff&text=Tcl
 .. image:: http://www.placehold.it/200/29b544/ffffff&text=Haskell
 .. image:: http://www.placehold.it/200/cc5555/ffffff&text=Puppet
