@@ -4,7 +4,7 @@ The Colors used by GitHub to represent programming languages
 
 
 .. image:: http://www.placehold.it/200/946d57/ffffff&text=Eiffel
-.. image:: http://www.placehold.it/200/b07219/ffffff&text=Java
+.. image:: http://www.placehold.it/200/587993/ffffff&text=Java
 .. image:: http://www.placehold.it/200/543978/ffffff&text=VHDL
 .. image:: http://www.placehold.it/200/7dd3b0/ffffff&text=Scala
 .. image:: http://www.placehold.it/200/c065db/ffffff&text=Emacs+Lisp
