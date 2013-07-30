@@ -78,4 +78,5 @@ A mapping of which colors github uses to represent different programming languag
 .. image:: http://www.placehold.it/200/3581ba/ffffff&text=Vala
 .. image:: http://www.placehold.it/200/596706/ffffff&text=Smalltalk
 .. image:: http://www.placehold.it/200/bb92ac/ffffff&text=Matlab
+.. image:: http://www.placehold.it/200/53269B/ffffff&text=CSharp
 
