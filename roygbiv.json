@@ -1,0 +1,30 @@
+{
+  "RED": {
+    "language": "C Plus Plus",
+    "extension": ".cpp"
+  },
+  "ORANGE": {
+    "language": "Javascript",
+    "extension": ".js"
+  },
+  "YELLOW": {
+    "language": "Parror",
+    "extension": ".pasm"
+  },
+  "GREEN": {
+    "language": "VimL",
+    "extension": ".vim"
+  },
+  "BLUE": {
+    "language": "Perl",
+    "extension": ".pl"
+  },
+  "INDIGO": {
+    "language": "PHP",
+    "extension": ".php"
+  },
+  "VIOLET": {
+    "language": "Visual Basic",
+    "extension": ".vb"
+  },
+}

@@ -24,7 +24,6 @@ A mapping of which colors github uses to represent different programming languag
 .. image:: http://www.placehold.it/200/5861ce/ffffff&text=Shell
 .. image:: http://www.placehold.it/200/a67219/ffffff&text=Assembly
 .. image:: http://www.placehold.it/200/b0b77e/ffffff&text=ooc
-.. image:: http://www.placehold.it/200/555/ffffff&text=C+Sharp
 .. image:: http://www.placehold.it/200/45f715/ffffff&text=Turing
 .. image:: http://www.placehold.it/200/3581ba/ffffff&text=AppleScript
 .. image:: http://www.placehold.it/200/bd79d1/ffffff&text=Arduino
@@ -78,4 +77,4 @@ A mapping of which colors github uses to represent different programming languag
 .. image:: http://www.placehold.it/200/3581ba/ffffff&text=Vala
 .. image:: http://www.placehold.it/200/596706/ffffff&text=Smalltalk
 .. image:: http://www.placehold.it/200/bb92ac/ffffff&text=Matlab
-
+.. image:: http://www.placehold.it/200/53269B/ffffff&text=C+Sharp
