@@ -48,7 +48,7 @@ A mapping of which colors github uses to represent different programming languag
 .. image:: http://www.placehold.it/200/ce279c/ffffff&text=Max
 .. image:: http://www.placehold.it/200/f34b7d/ffffff&text=cpp
 .. image:: http://www.placehold.it/200/dc566d/ffffff&text=Standard+ML
-.. image:: http://www.placehold.it/200/f15501/ffffff&text=Objective-C
+.. image:: http://www.placehold.it/200/438eff/ffffff&text=Objective-C
 .. image:: http://www.placehold.it/200/198ce7/ffffff&text=R
 .. image:: http://www.placehold.it/200/c7a938/ffffff&text=Mirah
 .. image:: http://www.placehold.it/200/d4bec1/ffffff&text=Boo
