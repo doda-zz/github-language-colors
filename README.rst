@@ -18,15 +18,15 @@ A mapping of which colors github uses to represent different programming languag
 .. image:: http://www.placehold.it/200/848bf3/ffffff&text=Verilog
 .. image:: http://www.placehold.it/200/636746/ffffff&text=Factor
 .. image:: http://www.placehold.it/200/078193/ffffff&text=Ioke
-.. image:: http://www.placehold.it/200/949e0e/ffffff&text=Erlang
+.. image:: http://www.placehold.it/200/0faf8d/ffffff&text=Erlang
 .. image:: http://www.placehold.it/200/c9df40/ffffff&text=Nu
 .. image:: http://www.placehold.it/200/fcd46d/ffffff&text=D
 .. image:: http://www.placehold.it/200/5861ce/ffffff&text=Shell
 .. image:: http://www.placehold.it/200/a67219/ffffff&text=Assembly
 .. image:: http://www.placehold.it/200/b0b77e/ffffff&text=ooc
-.. image:: http://www.placehold.it/200/555/ffffff&text=C+Sharp
+.. image:: http://www.placehold.it/200/5a25a2/ffffff&text=C+Sharp
 .. image:: http://www.placehold.it/200/45f715/ffffff&text=Turing
-.. image:: http://www.placehold.it/200/3581ba/ffffff&text=AppleScript
+.. image:: http://www.placehold.it/200/ccc/ffffff&text=AppleScript
 .. image:: http://www.placehold.it/200/bd79d1/ffffff&text=Arduino
 .. image:: http://www.placehold.it/200/3fb68b/ffffff&text=Common+Lisp
 .. image:: http://www.placehold.it/200/cccccc/ffffff&text=Dart
@@ -42,13 +42,13 @@ A mapping of which colors github uses to represent different programming languag
 .. image:: http://www.placehold.it/200/dbded5/ffffff&text=Fantom
 .. image:: http://www.placehold.it/200/e69f56/ffffff&text=Groovy
 .. image:: http://www.placehold.it/200/555/ffffff&text=C
-.. image:: http://www.placehold.it/200/f15501/ffffff&text=JavaScript
+.. image:: http://www.placehold.it/200/f7df1e/ffffff&text=JavaScript
 .. image:: http://www.placehold.it/200/6594b9/ffffff&text=AutoHotkey
 .. image:: http://www.placehold.it/200/f3ca0a/ffffff&text=Parrot
 .. image:: http://www.placehold.it/200/ce279c/ffffff&text=Max
 .. image:: http://www.placehold.it/200/f34b7d/ffffff&text=cpp
 .. image:: http://www.placehold.it/200/dc566d/ffffff&text=Standard+ML
-.. image:: http://www.placehold.it/200/f15501/ffffff&text=Objective-C
+.. image:: http://www.placehold.it/200/438eff/ffffff&text=Objective-C
 .. image:: http://www.placehold.it/200/198ce7/ffffff&text=R
 .. image:: http://www.placehold.it/200/c7a938/ffffff&text=Mirah
 .. image:: http://www.placehold.it/200/d4bec1/ffffff&text=Boo
@@ -63,7 +63,7 @@ A mapping of which colors github uses to represent different programming languag
 .. image:: http://www.placehold.it/200/8a1267/ffffff&text=Ecl
 .. image:: http://www.placehold.it/200/3ebc27/ffffff&text=Dylan
 .. image:: http://www.placehold.it/200/37775b/ffffff&text=Nimrod
-.. image:: http://www.placehold.it/200/8d04eb/ffffff&text=Go
+.. image:: http://www.placehold.it/200/375fab/ffffff&text=Go
 .. image:: http://www.placehold.it/200/3581ba/ffffff&text=Python
 .. image:: http://www.placehold.it/200/e4cc98/ffffff&text=Tcl
 .. image:: http://www.placehold.it/200/29b544/ffffff&text=Haskell
@@ -78,4 +78,5 @@ A mapping of which colors github uses to represent different programming languag
 .. image:: http://www.placehold.it/200/3581ba/ffffff&text=Vala
 .. image:: http://www.placehold.it/200/596706/ffffff&text=Smalltalk
 .. image:: http://www.placehold.it/200/bb92ac/ffffff&text=Matlab
-
+.. image:: http://www.placehold.it/200/563d7c/ffffff&text=CSS
+.. image:: http://www.placehold.it/200/31859c/ffffff&text=TypeScript
