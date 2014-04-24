@@ -39,7 +39,7 @@
     "Fantom": "#dbded5",
     "Groovy": "#e69f56",
     "C": "#555",
-    "JavaScript": "#f15501",
+    "JavaScript": "#f7df1e",
     "D": "#fcd46d",
     "ooc": "#b0b77e",
     "C++": "#f34b7d",
@@ -73,6 +73,5 @@
     "Scheme": "#1e4aec",
     "Vala": "#3581ba",
     "Smalltalk": "#596706",
-    "Matlab": "#bb92ac",
-    "C#": "#bb92af"
+    "Matlab": "#bb92ac"
 }
