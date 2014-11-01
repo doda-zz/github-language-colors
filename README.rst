@@ -2,7 +2,6 @@ A mapping of which colors github uses to represent different programming languag
 
 .. '\n'.join('.. image:: http://www.placehold.it/200/%s/ffffff&text=%s' % (c[x][1:], quote_plus(x.replace('C++','cpp').replace('C#', 'C Sharp')) for x in c)
 
-
 .. image:: http://www.placehold.it/200/946d57/ffffff&text=Eiffel
 .. image:: http://www.placehold.it/200/b07219/ffffff&text=Java
 .. image:: http://www.placehold.it/200/543978/ffffff&text=VHDL
@@ -78,4 +77,4 @@ A mapping of which colors github uses to represent different programming languag
 .. image:: http://www.placehold.it/200/3581ba/ffffff&text=Vala
 .. image:: http://www.placehold.it/200/596706/ffffff&text=Smalltalk
 .. image:: http://www.placehold.it/200/bb92ac/ffffff&text=Matlab
-
+.. image:: http://www.placehold.it/200/ffad37/ffffff&text=Swift
