@@ -21,4 +21,5 @@ with open('colors.json', 'w') as f:
 with open('README.rst', 'w') as f:
     f.write('A mapping of which colors github uses to represent different programming languages in their "Languages" tab on each repository.')
     f.write('\n\n')
-    f.write('\n'.join('.. image:: http://www.placehold.it/200/%s/ffffff&text=%s' % (v[1:], k) for k, v in colors.items()))
+    color_strings = ('.. image:: http://www.placehold.it/150/%s/ffffff&text=%s' % (v[1:].lower(), k) for k, v in colors.items())
+    f.write('\n'.join(sorted(color_strings)))
