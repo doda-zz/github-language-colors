@@ -16,4 +16,4 @@ os.remove('languages.yml')
 colors = dict((replace_names.get(name, name), color['color']) for name, color in colors.items() if 'color' in color)
 
 with open('colors.json', 'w') as f:
-    json.dump(colors, f, indent=4)
+    json.dump(colors, f, indent=4, sort_keys=True)
